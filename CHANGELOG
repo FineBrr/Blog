@@ -1,0 +1,15 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+
+
+## [1.0.0] - 2024-04-24
+### Added
+- Basic functionality for creating, reading, updating, and deleting blog posts.
+- User authentication.
+- Protection against unauthorized access.
+- Responsive design for various devices.
+
+
+[1.0.0]: https://github.com/FineBrr/Blog/releases/tag/v1.0.0
+
