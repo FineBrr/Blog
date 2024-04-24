@@ -36,6 +36,8 @@ posts.
 - **PHP-Mailer**: Version 5.2, used for sending emails from PHP applications.
 - **CKEditor**: Version 4.24.0, used for create and edit text content with rich formatting options similar to those
   found in word processing software like Microsoft Word
+- **jQuery**: Version 3.1, pulled in via Composer, used for client-side scripting.
+- **DataTables**: Version 1.10.16, a jQuery plugin used for displaying tabular data.
 
 ## Prerequisites
 
